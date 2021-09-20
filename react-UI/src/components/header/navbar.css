@@ -1,0 +1,48 @@
+.topnav-header{
+    display: flex;
+    
+}
+.language-select-dropdown{
+    margin-left: 20%;
+    margin-right: 5%;
+}
+.language-select-dropdown a{
+    text-decoration: none;
+    color: black;
+}
+.currency-select-dropdown a{
+    text-decoration: none;
+    color: black;
+}
+.myprofie{
+    margin-left: 35%;
+    margin-right: 5%;
+}
+.search-icon{
+    margin-left: 7%
+}
+.topnav-divider{
+    background-color: #d7d7df;
+}
+.header-logo-text{
+    color:#FF4252;
+    font-weight: 700;
+    margin: 3% 0% 3% 40% ;
+    display: inline-block;
+}
+.navbar-item{
+    display: flex;
+    margin-left: 20%;
+    margin-bottom: 3%;
+}
+.nav-item-list{
+    list-style: none;
+    margin-left: 5%;
+}
+.nav-item-list a{
+    text-decoration: none;
+   color: black;
+}
+.nav-item-list a:active{
+    color: #2E90E5;
+}
