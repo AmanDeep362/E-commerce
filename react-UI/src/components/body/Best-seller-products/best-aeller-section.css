@@ -1,0 +1,33 @@
+.best-seller-section{
+    margin-top: 5%;
+}
+.best-seller-section-heading{
+    margin-left: 45%;
+}
+.best-seller-section-navbar-item{
+    display: flex;
+    margin-left: 30%;
+    margin-top: 3%;
+}
+.best-seller-section-navbar-list{
+    list-style: none;
+    margin-left: 5%;
+    font-weight: bold;
+}
+.best-seller-section-card1{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+}
+.load-more-link{
+    text-decoration: underline;
+    text-decoration-color: #33A0FF;
+    color: #33A0FF;
+    font-weight: 700;
+    margin-left: 45%;
+    font-size: 22px;
+}

@@ -1,0 +1,35 @@
+.prodduct-banner-container{
+    height: 400px;
+    background-color: #2E90E5;
+    margin-top: 5%;
+}
+    .banner-img{
+        height: 380px;
+        position: relative;
+        float: right;
+    }
+    .prodduct-banner-producttitle{
+        color: white;
+        font-size: 64px;
+        margin-left: 20%;
+        position: relative;
+        text-align: center;
+        top: 50px;
+    }
+    .prodduct-banner-product-description{
+        color: white;
+        font-size: 32px;
+        margin-left: 20%;
+        position: relative;
+        text-align: center;
+        top: 50px;
+    }
+    .prodduct-banner-product-link{
+        color: white;
+        font-size: 24px;
+        margin-left: 20%;
+        position: relative;
+        text-align: center;
+        top: 80px;
+        text-decoration: underline white;
+    }

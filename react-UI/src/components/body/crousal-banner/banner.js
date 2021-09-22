@@ -12,7 +12,7 @@ class Banner extends React.Component {
     <div class="carousel-item active">
       <img src={crausalBanner2} class="d-block w-100" alt="..."/>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item ">
       <img src={crausalBanner1} class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">

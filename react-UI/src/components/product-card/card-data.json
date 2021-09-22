@@ -1,0 +1,13 @@
+
+[
+    {
+        "macbookimg": "macbookproImg",
+        "macbookairimg": "macbookairImg",
+        "productname1": "AppleMacbook pro",
+        "productname2": "AppleMacbook Air",
+        "price1": 499,
+        "mrp1": 699,
+        "iphone6Img" : "iphone6img"
+        
+    }
+]

@@ -1,0 +1,36 @@
+.product-card-1 .card {
+    width :250px
+}
+.discount-price{
+    color: #FF4858;
+}
+.real-price{
+    color: #C1C8CE;
+}
+.product-card-1{
+    margin-bottom: 5%
+}
+.fa-heart{
+    position: absolute;
+    bottom: 280px;
+    left: 80px;
+    display: none;
+    font-size: 32px;
+    color: skyblue;
+}
+.fa-shopping-cart{
+    position: absolute;
+    bottom: 280px;
+    left: 140px;
+    display: none;
+    font-size: 32px;
+    color: skyblue;
+}
+/* .product-card-1-hover-effect:hover{
+   filter: blur(8px);
+   background-color: white;
+
+} */
+.product-card-1-hover-effect:hover > .fa-shopping-cart {
+    display: block;
+}
