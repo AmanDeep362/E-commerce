@@ -1,5 +1,7 @@
 import React from 'react'
 import './navbar.css'
+import { NavLink } from 'react-router-dom';
+import Accesories from '../accesories/Accesories';
 class Navbar extends React.Component {
    
     render() {
@@ -40,14 +42,14 @@ class Navbar extends React.Component {
                     </div>
                     <div className="navbar-container">
                     <ul className="navbar-item">
-                    <li className="nav-item-list"><a href="#"> HOME </a></li>
+                    <li className="nav-item-list"><a href="#"> <NavLink to='/' >HOME</NavLink> </a></li>
                     <li className="nav-item-list" onClick={toggle} ><a href="#"> STORE </a>
                     
                      </li>
                     <li className="nav-item-list"><a href="#"> IPHONE </a> </li>
                     <li className="nav-item-list"><a href="#"> IPAD </a></li>
                     <li className="nav-item-list"><a href="#"> MACBOOK </a></li>
-                    <li className="nav-item-list"><a href="#"> ACCESORIES </a></li>
+                    <li className="nav-item-list"><a href="#"> <NavLink to='/Accesories' activeStyle={{color:"#2E90E5"}}>Accesories</NavLink> </a></li>
                     </ul>
                    </div>
                    <div id="store-subnavbar" className="sub-navbar">

@@ -43,9 +43,7 @@
     text-decoration: none;
    color: black;
 }
-.nav-item-list a:active{
-    color: #2E90E5;
-}
+
 .sub-navbar{
     height: 250px;
      margin-left: 18%;

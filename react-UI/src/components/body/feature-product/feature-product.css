@@ -1,0 +1,28 @@
+.feature-product-card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.feature-product-card-container .card{
+    display: inline-block;
+    width: 300px;
+}
+.feature-product-card-container .card:hover{
+    width: 350px;
+    height : 180px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.feature-product-container{
+    margin-top: 40px;
+}
+.feature-product-card-title{
+    height: 50px;
+}
+.feature-product-card-img{
+    width: 200px;
+}
+.feature-product-heading{
+    margin-top: 50px;
+    text-align: center;
+}

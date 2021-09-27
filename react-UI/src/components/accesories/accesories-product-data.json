@@ -1,0 +1,62 @@
+[
+    {
+        "productname":"Apple Ipod",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Smartwatch 2d",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Smartwatch 2.0",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple homepod mini",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Airpods Max",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Camera",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"iPhone Lightning Dock - Gold",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Magic Trackpad 2",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Macbook Pro",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"New Apple Mac Mini",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"New Apple Mac Mini",
+        "price" : 499,
+        "mrp" : 599
+    },
+    {
+        "productname":"Apple Airpods",
+        "price" : 499,
+        "mrp" : 599
+    }
+]

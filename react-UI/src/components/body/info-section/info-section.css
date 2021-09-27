@@ -1,0 +1,14 @@
+.info-section-card-container .card{
+    width: 300px;
+    border: none;
+}
+.info-section-container{
+     display: flex;
+     justify-content: space-around;
+     margin-top: 100px;
+}
+.info-section-card-container .card img{
+    width: 150px;
+    height: 150px;
+   
+}

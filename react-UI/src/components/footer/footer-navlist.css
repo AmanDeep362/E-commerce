@@ -1,0 +1,19 @@
+.footer-container{
+    display: flex;
+    margin-top: 80px;
+}
+.footer-heading{
+    font-weight: 600;
+}
+.footer-list{
+    list-style: none;
+}
+.payment-gateway-footer-container{
+    position: relative;
+    float: right;
+    margin-right: 200px;
+}
+.payment-gateway-footer-container img{
+    width: 60px;
+    padding: 10px;
+}
